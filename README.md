@@ -1,5 +1,7 @@
 # Pong — Built from Scratch in C with raylib
 
+https://github.com/user-attachments/assets/75947a8b-f3af-4295-b73d-84cefd364a01
+
 A complete, playable Pong game written in pure C using [raylib](https://www.raylib.com/) as a thin rendering/audio layer — **no game engine**. I built this to understand what a game engine actually does for you by doing it all by hand: the game loop, timing, rendering, input, collision, and audio.
 
 Rather than a finished product, this project is a deliberate exercise in **game development fundamentals** and low-level systems thinking.
